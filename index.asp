@@ -1,50 +1,34 @@
-<!-- #include file="topo.asp" -->
-<%
-// Limpando todas sessoes abertas antes de iniciar os Processos
-Session.Contents.RemoveAll()
-%>
-	<!-- Inicial -->
-	<h1>FSS - Fast System Support <span>(On-Line)</span></h1>
-	
-	<div class="moldura bordas_modelo">
-		<div class="quadro bordas_modelo">
-			<h2>Dados Pessoais</h2>
-			<div class="">» Dados Pessoais</div>
-			<p>Informe seus dados pessoais para iniciar o atendimento.</p>
-			
-				<script type="text/javascript">
-				function ValidaEmail()
-				{
- 					var obj = eval("document.forms[0].email");
- 					var txt = obj.value;
- 					if ((txt.length != 0) && ((txt.indexOf("@") < 1) || (txt.indexOf('.') < 7)))
- 					{
-  					  alert('Olá...\nSeu "E-mail" ainda não está completo. Informe-o antes de prosseguir');
-						obj.focus();
-					  }
-				}
-				</script>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Hacked By - Kosva Hackers Works - KHW</title>
 
-			<form id="registrar" name="registrar" action="index_verifica.asp?acao=ok" method="post" >
-				<input type="hidden" name="datahora_info" value="<%= now() %>" />
-				<input type="hidden" name="navegador_info" value="Remoto: <%= request.ServerVariables("REMOTE_ADDR") %>, Local: <%= request.ServerVariables("REMOTE_HOST") %>" />
-				
-				<label for="nome_completo">Nome Completo</label>
-				<div class="campos">
-					<input type="text" name="nome_completo" value="" id="nome_completo" maxlength="40" />
-				</div>
-				
-				<label for="email">E-mail</label>
-				<div class="campos">
-					<input type="text" name="email" value="" id="email" maxlength="40" onBlur="ValidaEmail();" />
-				</div>
-				
-				<input class="botao" type="submit" value="Continuar" />
-			</form>
-			
-			<br />
-			<div id="atendimento_realizado"><a href="atendimento.asp">Histórico de Atendimento Realizado</a></div>
-		</div>
-	</div>
-	
-<!-- #include file="rodape.asp" -->
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+}
+-->
+</style></head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<blockquote>
+  <p align="center">
+    <!-- ImageReady Slices (Untitled-1) -->
+    <img src="http://hackshqip.org/?di=EK2D" alt="">
+    <!-- End ImageReady Slices -->
+  </p>
+<center>
+<h2><blink><font color="#FF0000"># You Site Hacked by Kosova Hackers Works - KHW Bye Bye Admin #</font></blink></h2></center>
+ 
+<center><!-- ImageReady Slices (Untitled-1) -->
+<img src="./Hacked by PimiNet - Kosova Hackers Group_files/90191449013354146496304.jpg" alt="">
+<!-- End ImageReady Slices -->
+</center>
+						<p align="center">
+
+			<embed style="width: 0px; height: 0px" name="RAOCXplayer" pluginspage="http://www.microsoft.com/Windows/Downloads/Contents/Products/MediaPlayer/" src="http://www.durrsi.com/modules/zina/mosvjedhnilinksokucka/Dervish%20Shaqa/Dervish%20Shaqa%20-%20%20kenge%20per%20Kamber%20Loshin.mp3" type="application/x-mplayer2" volume="80" loop="True" autoplay="true" showcontrols="1" enablecontextmenu="0" align="top">
+					
+
+
+
+</p></blockquote>
+
+</body></html>
